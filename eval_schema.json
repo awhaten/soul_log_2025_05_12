@@ -1,0 +1,14 @@
+{
+  "relevance": {
+    "description": "語句與當前主題或上下文的關聯性",
+    "weight": 0.4
+  },
+  "coherence": {
+    "description": "語句本身是否語法正確、邏輯連貫",
+    "weight": 0.3
+  },
+  "emotion_match": {
+    "description": "語句的情緒表達是否與話題相符",
+    "weight": 0.3
+  }
+}
